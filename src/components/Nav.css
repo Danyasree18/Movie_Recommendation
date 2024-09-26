@@ -1,0 +1,15 @@
+/* Other existing styles */
+
+/* Style for the login image */
+.login1 {
+    width: 40px;  /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    object-fit: contain; /* Ensures the image maintains its aspect ratio */
+    margin-left: 10px; /* Optional: Adds some space between the search button and the login image */
+}
+
+/* Ensure the form elements are aligned properly */
+form {
+    display: flex;
+    align-items: center; /* Centers items vertically within the form */
+}
